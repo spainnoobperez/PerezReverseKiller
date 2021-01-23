@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.littleshoot:littleproxy:1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.littleshoot/littleproxy/1.1.2/a52a858007f6efbced829a944a827a63fe39d9b2/littleproxy-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.littleshoot/littleproxy/1.1.2/60e8fd198456e59fe811aea1735411e364226d4f/littleproxy-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.littleshoot/littleproxy/1.1.2/86784f989baf73105e645de9fb827f4770d83e9b/littleproxy-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
